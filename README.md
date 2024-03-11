@@ -12,6 +12,7 @@
   <img align='center' alt='João-Pandas' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
   <img align='center' alt='João-Numpy' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
   <img align='center' alt='João-Matplotlib' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg">
+  <img align='center' alt='João-Matplotlib' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
 ## Contatos 📱
