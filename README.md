@@ -1,4 +1,4 @@
-# <Dev> 👨🏻‍💻
+# <h1<Dev> 👨🏻‍💻>
 
 <div>
   <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=joaolucas&theme=dark&show_icons=true'>
@@ -9,8 +9,8 @@
 
 <div style="display: inline_block">
   <img align='center' alt='João-Python' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align='center' alt='João-Html' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img align='center' alt='João-Css' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align='center' alt='João-Html' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align='center' alt='João-Css' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
 ## Contatos 📱
