@@ -1,4 +1,4 @@
-# <h1<Dev> 👨🏻‍💻>
+# Dev 👨🏻‍💻
 
 <div>
   <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=joaolucas&theme=dark&show_icons=true'>
