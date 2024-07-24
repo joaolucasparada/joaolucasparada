@@ -1,4 +1,4 @@
-# Data Science 📊
+# <Dev> 👨🏻‍💻
 
 <div>
   <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=joaolucas&theme=dark&show_icons=true'>
@@ -9,10 +9,8 @@
 
 <div style="display: inline_block">
   <img align='center' alt='João-Python' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align='center' alt='João-Pandas' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img align='center' alt='João-Numpy' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
-  <img align='center' alt='João-Matplotlib' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg">
-  <img align='center' alt='João-Matplotlib' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align='center' alt='João-Html' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img align='center' alt='João-Css' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 </div>
 
 ## Contatos 📱
