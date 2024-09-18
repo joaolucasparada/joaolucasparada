@@ -8,7 +8,7 @@
 ## Ferramentas 🧰
 
 <div style="display: inline_block">
-  <img align='center' alt='João-SQL' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align='center' alt='João-SQL' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align='center' alt='João-Python' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   
 </div>
