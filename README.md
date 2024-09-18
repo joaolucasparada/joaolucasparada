@@ -1,4 +1,4 @@
-# Dev 👨🏻‍💻
+# Data Science 👨🏻‍💻📊
 
 <div>
   <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=joaolucas&theme=dark&show_icons=true'>
@@ -8,9 +8,18 @@
 ## Ferramentas 🧰
 
 <div style="display: inline_block">
+  <img align='center' alt='João-SQL' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align='center' alt='João-Python' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align='center' alt='João-Html' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align='center' alt='João-Css' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  
+</div>
+
+## Bibliotecas Python 📚
+
+<div style="display: inline_block">
+  <img align='center' alt='João-Pandas' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align='center' alt='João-Plotly' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg">
+  <img align='center' alt='João-Streamlit' hight='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+  
 </div>
 
 ## Contatos 📱
